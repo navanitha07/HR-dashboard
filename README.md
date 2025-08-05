@@ -45,6 +45,11 @@ Decision support for HR strategy
 
 Identifying trends in attrition and hiring
 
+# output 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e65ae5cb-2cb9-44c2-ac6f-88fb2f089991" />
+
+
+
 
 
 
