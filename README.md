@@ -1,5 +1,5 @@
 # HR-dashboard
-# description
+# Description
 📊 HR Dashboard Analysis – Tableau Workbook
 This project presents a professional and interactive Human Resources Dashboard built using Tableau. The dashboard is designed to help HR managers, analysts, and decision-makers gain deep insights into employee data for better strategic planning and operational efficiency.
 
